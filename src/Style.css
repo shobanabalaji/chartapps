@@ -1,0 +1,30 @@
+button.graph-btn {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 11px 9px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    /* font-size: 16px; */
+    text-align: left;
+    float: right;
+    cursor: pointer;
+}
+div#fixedheader {
+	top:0px;
+	left:0px;
+	width:100%;
+	color:#CCC;
+	background:#333;
+	padding:10px;
+}
+div#fixedfooter {
+	position:fixed;
+	bottom:0px;
+	left:0px;
+	width:100%;
+	color:#CCC;
+	background:#333;
+	padding:8px;
+}
